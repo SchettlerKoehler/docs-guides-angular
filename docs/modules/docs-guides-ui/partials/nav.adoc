@@ -34,6 +34,7 @@
 ** xref:documentation:docs-guides-ui:migration/index.adoc[Migrating an Existing App]
 *** xref:documentation:docs-guides-ui:angular/app-to-onecx.adoc[Migrate vanilla Angular apps to OneCX]
 *** xref:documentation:docs-guides-ui:migration/vanilla-to-onecx-angular.adoc[Migrate a vanilla Angular app to OneCX]
+*** xref:documentation:docs-guides-ui:angular/migrate-webpack-to-rspack.adoc[Migrate an Nx Angular app from webpack to Rspack]
 
 ** xref:documentation:docs-guides-ui:angular/index.adoc[Angular]
 *** xref:documentation:docs-guides-ui:angular/guidelines.adoc[Guidelines]

@@ -20,3 +20,9 @@ Use this branch when the application is already a OneCX app and needs to be upgr
 * xref:documentation:onecx-portal-ui-libs:migrations/angular-19/index.adoc[Upgrade to Angular 19]
 * xref:documentation:onecx-portal-ui-libs:migrations/angular-20/index.adoc[Upgrade to Angular 20]
 * xref:documentation:onecx-portal-ui-libs:migrations/angular-21/index.adoc[Upgrade to Angular 21]
+
+[#change-the-build-toolchain]
+== Change the build toolchain
+Use this branch when an Nx-based OneCX app still builds with `@angular-devkit/build-angular` and webpack:
+
+* xref:documentation:docs-guides-ui:angular/migrate-webpack-to-rspack.adoc[Migrate an Nx Angular app from webpack to Rspack]
